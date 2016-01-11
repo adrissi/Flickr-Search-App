@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="header_table" type="id"/>
+    <item name="thumbnail" type="id"/>
+    <item name="caption" type="id"/>
+    <item name="from" type="id"/>
+</resources>

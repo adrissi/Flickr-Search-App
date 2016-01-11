@@ -1,0 +1,9 @@
+<resources>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Flickr Photo Search App</string>
+    <string name="thumbnail">Image</string>
+    <string name="caption">Caption</string>
+    <string name="from">Username</string>
+
+</resources>
